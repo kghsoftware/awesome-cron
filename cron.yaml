@@ -2,4 +2,4 @@ cron:
 - description: 5 phut chay 1 lan
   url: /cron-page-1m
   target: beta
-  schedule: every 5 minutes
+  schedule: every 1 minutes
