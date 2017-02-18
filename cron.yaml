@@ -3,3 +3,7 @@ cron:
   url: /cron-page-1m
   target: beta
   schedule: every 1 minutes
+- description: test url external
+  url: http://timkiemfb.com/status/
+  target: beta
+  schedule: every 1 minutes
