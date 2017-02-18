@@ -7,3 +7,7 @@ cron:
   url: /cron-group-1m
   target: beta
   schedule: every 1 minutes
+- description: quet 500 user 
+  url: /cron-user-1m
+  target: beta
+  schedule: every 1 minutes
