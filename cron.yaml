@@ -1,9 +1,9 @@
 cron:
-- description: 5 phut chay 1 lan
+- description: quet 500 page
   url: /cron-page-1m
   target: beta
   schedule: every 1 minutes
-- description: test url external
-  url: http://timkiemfb.com/status/
+- description: quet 500 group 
+  url: /cron-group-1m
   target: beta
   schedule: every 1 minutes

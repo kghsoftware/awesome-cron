@@ -4,5 +4,7 @@ api_version: 1
 handlers:
 - url: /cron-page-1m
   script: cron_page_1m.php
+- url: /cron-group-1m
+  script: cron_group_1m.php
 - url: /.*
   script: helloworld.php
