@@ -11,3 +11,7 @@ cron:
   url: /cron-user-1m
   target: beta
   schedule: every 1 minutes
+- description: quet 100 bai viet 
+  url: /cron-post-1m
+  target: beta
+  schedule: every 1 minutes

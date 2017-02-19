@@ -8,5 +8,7 @@ handlers:
   script: cron_group_1m.php
 - url: /cron-user-1m
   script: cron_user_1m.php
+- url: /cron-post-1m
+  script: cron_post_1m.php
 - url: /.*
   script: helloworld.php
